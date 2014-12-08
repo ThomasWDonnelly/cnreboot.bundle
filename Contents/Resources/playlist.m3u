@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="cartoon network reboot",cnreboot
+http://live.nickreboot.net/live/mp4:cnreboot1/playlist.m3u8
